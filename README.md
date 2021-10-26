@@ -1,6 +1,6 @@
 # DAM-SD# 
 
-This is a Matlab implementation of Deep Assessment Methodolgy - Second Derivative (DAM-SD), a method for modeling and predicting the time series data. 
+This is a Matlab implementation of Deep Assessment Methodolgy - Second Derivative (DAM-SD), a method for modeling the time series data. 
 
 
 ## Data
